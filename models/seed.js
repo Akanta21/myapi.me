@@ -46,8 +46,8 @@ var me = [
         'image': 'img/twittee.png'
       },
       {
-        'title': 'HDB + SPOTIFY dashboard',
-        'description': 'An application which allows the user to search, play music while going through HDB resale data',
+        'title': 'Housify',
+        'description': 'A web application which potentially makes house search a much simpler task.',
         'link': 'https://akanta21.github.io/Miniproject3a',
         'image': 'img/hdbapi.png'
       },
@@ -59,7 +59,7 @@ var me = [
       },
       {
         'title': 'Tic-Tac-Toe',
-        'description': 'Tic-Tac-Toe that allows two users to go agains each other',
+        'description': 'Tic-Tac-Toe that allows two users to go against one another',
         'link': 'https://akanta21.github.io/tic-tac-toe',
         'image': 'img/tictactoe.png'
       }
